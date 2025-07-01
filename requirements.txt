@@ -1,6 +1,5 @@
 streamlit
 pdf2image
-pyzbar
 pytesseract
 opencv-python-headless
 openpyxl
